@@ -69,10 +69,12 @@ f(A, B, C) = (A AND B) OR (A AND C) OR (B AND C)
 
 ## 4) Questions
 1. Did your simulated output match the truth table?
-2. Were there any surprising behaviors when toggling inputs?
-3. How would you build a function that turns on the output **only if all three inputs are equal**?
-4. What’s the difference between building logic in CircuitVerse vs. writing truth tables?
-
+   yes
+3. Were there any surprising behaviors when toggling inputs?
+4. How would you build a function that turns on the output **only if all three inputs are equal**?
+   f(a,b,c)= a = b = c
+6. What’s the difference between building logic in CircuitVerse vs. writing truth tables?
+  CircuitVerse allows u to use more different parts of electronic parts, in truthtable u only using booleans algebra
 ---
 
 ## 5) Final Advice
